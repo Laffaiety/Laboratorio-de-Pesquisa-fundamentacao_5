@@ -24,22 +24,22 @@ Foi adicionado mais um portal que inicialmente começa bloqueado, só é liberad
 Toda a parte de cenário ainda é teste, melhorias serão feitas nos trabalhos posteriores.
 
 ## Modelo do lobby do game
-![lobby](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_4/blob/main/LOBBY.png)
+![lobby](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_5/blob/main/LOBBY.png)
+
+## Modelo do desafio 1
+![lobby](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_5/blob/main/desafio%201.png)
 
 ## Codificação.
 
 A codificação atual foi aplicada no painel 1, nele foi adicionado a logica de esconder o painel assim que o desafio for concluido,
 também foi adicionado a logica de construir(chamar) as letras assim que uma determinada alavanca fosse acionada, assim como destruir(esconder) as letras se a alavanca for a opção incorreta.
-Foi imple
-s portais que serão usados como meio de locomoção da área de tutoriais para o primeiro desafio. Essas lógicas mesmo que estão funcionais no momento, ainda são testes então serão explicadas em trabalhos futuros.
+Foi implementado a logica de audio para as interações com as alavancas, comclusão de desafio e erro caso a ordem seja incorreta, assim como o audio principal do game.
+Essas lógicas mesmo que estão funcionais no momento, ainda são testes então serão explicadas em trabalhos futuros.
 
-## Construction script
-![script](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_4/blob/main/portal%20construction%20script.png)
-
-## Event Graph
-![graph](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_4/blob/main/portal%20event%20graph.png)
+## Event Graph Painel 1
+![script](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_5/blob/main/painel%20log.png)
 
 ## Testes. 
 
 ### O vídeo a seguir mostra o teste do jogo no seu estado atual(Clique na imagem):
-[![Vídeo de teste_0.4](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_4/blob/main/miniatura.png)](https://youtu.be/bVy1wqJ8NOk "Vídeo de Teste_0.4")
+[![Vídeo de teste_0.4](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_5/blob/main/miniatura.png)](https://youtu.be/31WPOwCBi5w "Vídeo de Teste_0.5")
