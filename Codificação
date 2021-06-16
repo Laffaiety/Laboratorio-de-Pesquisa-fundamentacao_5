@@ -1,0 +1,4 @@
+A codificação atual foi aplicada no painel 1, nele foi adicionado a lógica de esconder o painel assim que o desafio for concluído,
+também foi adicionado a lógica de construir(chamar) as letras assim que uma determinada alavanca fosse acionada, assim como destruir(esconder) as letras se a alavanca for a opção incorreta.
+Foi implementado a lógica de áudio para as interações com as alavancas, conclusão de desafio e erro caso a ordem seja incorreta, assim como o áudio principal do game.
+Essas lógicas mesmo que estão funcionais no momento, ainda são testes então serão explicadas em trabalhos futuros.
